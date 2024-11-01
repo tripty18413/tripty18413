@@ -1,3 +1,6 @@
+![github-header-image (2)](https://github.com/user-attachments/assets/540c3f06-c658-465f-9219-1a49034811e3)
+
+
 <h1 align="center">Hi 👋, I'm 𝒯𝑅𝐼𝒫𝒯𝒴 𝒮𝐻𝒰𝒦𝐿𝒜</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center">
